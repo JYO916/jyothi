@@ -1,1 +1,6 @@
-# jyothi
+tuple1 = (10,)    
+tuple2 = ("Hello",)
+print("Tuple 1:", tuple1)
+print("Tuple 2:", tuple2)
+print("Element of Tuple 1:", tuple1[0])
+print("Element of Tuple 2:", tuple2[0])
